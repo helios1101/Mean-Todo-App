@@ -1,5 +1,5 @@
 <b><h1>MEAN Todo App</h1></b>
-A simple todo API made with NodeJS, ExpressJS, MongoDB and Angular. Can be used as a back-end for learning front-end technologies without making a standalone API for that purpose.
+A simple todo API made with NodeJS, ExpressJS, MongoDB and Angular. Can be used as a back-end for learning front-end technologies or vice versa fully created with working api.
 
 
 ## Download Instruction
