@@ -6,7 +6,8 @@ First download this project to your computer.
 ## Download Instruction
 
 
-Run `git clone https://github.com/helios1101/Mean-Todo-App`
+Run `git clone https://github.com/nomanHasan/todoapp-angular`
+
 
 
 ## Setup Project
