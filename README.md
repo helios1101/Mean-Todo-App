@@ -22,10 +22,12 @@ Database Setup
 Download and isntall MogoDB.
 Make sure that the database is running at `127.0.0.1:27017`
 
-Project Setup
+# Project Setup
 Now run `cd todo-api` to go inside the directory
 Run `npm install` to install all the dependencies.
 Run `npm install -g nodemon` to install NodemonGlobally.
 Run `npm start` to run the NodeJS Server.
 Since this request includes CORS use postman at http://localhost:3000/api/todos
+
+This project mainly serves the beginner.
 
